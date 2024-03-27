@@ -23,7 +23,7 @@ Your task is to evaluate the PyPDF2 PDF text extraction tool by running it on a 
 3. **Code:** Clone the provided GitHub repository containing the code template for text extraction. Add your code to the repository, commit the changes, and push them to the remote repository.
 
 
-**[Sample Text](https://github.com/SMSM-AI/AMUN-RAG/tree/main/Sample%20Text)**
+**[Sample Text](https://github.com/yazeedmshayekh2/SMSM-Internship/tree/main/RAG-AMUN/PDF-Mining)**
 
 Ensure that your submission is well-organized and follows the guidelines provided.
 
