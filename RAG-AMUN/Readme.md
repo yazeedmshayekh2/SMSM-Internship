@@ -1,4 +1,4 @@
-# RAG-AMUN
+# AMUN-RAG
 
 **What is PyPDF2?**
 
