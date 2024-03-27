@@ -1,5 +1,9 @@
 # AMUN-RAG
 
+## First Step: PDF Mining Tools Exploration and Comparison
+
+### PyPDF2 
+
 **What is PyPDF2?**
 
 PyPDF2 is a free and open-source pure-Python PDF library capable of various operations such as splitting, merging, cropping, and transforming pages of PDF files. Additionally, it can add custom data, viewing options, and passwords to PDF files. PyPDF2 also offers functionalities to retrieve text and metadata from PDFs.
