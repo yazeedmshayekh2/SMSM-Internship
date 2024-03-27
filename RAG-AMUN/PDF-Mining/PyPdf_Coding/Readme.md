@@ -1,13 +1,3 @@
-You can find the code files here: 
-
-[PyPDF2_First_pdf_file_Colab](https://colab.research.google.com/drive/1qEcyERknOXANiFs7tUS01IvcxWc2DpwM?usp=sharing)
-
-[PyPDF2_from Second to Fifth_pdf_file_Colab](https://colab.research.google.com/drive/1y3fdEDmnnAqF-8QQlac7qOADFfZR7qUF?usp=sharing)
-
-Or you can find them in the files above.
-
-___________________________________________
-
 **What is PyPDF2?**
 
 PyPDF2 is a free and open-source pure-Python PDF library capable of various operations such as splitting, merging, cropping, and transforming pages of PDF files. Additionally, it can add custom data, viewing options, and passwords to PDF files. PyPDF2 also offers functionalities to retrieve text and metadata from PDFs.
@@ -30,3 +20,13 @@ Your task is to evaluate the PyPDF2 PDF text extraction tool by running it on a 
 **[Sample Text](https://github.com/yazeedmshayekh2/SMSM-Internship/tree/main/RAG-AMUN/PDF-Mining)**
 
 Ensure that your submission is well-organized and follows the guidelines provided.
+
+___________________________________________
+
+You can find the code files here: 
+
+[PyPDF2_First_pdf_file_Colab](https://colab.research.google.com/drive/1qEcyERknOXANiFs7tUS01IvcxWc2DpwM?usp=sharing)
+
+[PyPDF2_from Second to Fifth_pdf_file_Colab](https://colab.research.google.com/drive/1y3fdEDmnnAqF-8QQlac7qOADFfZR7qUF?usp=sharing)
+
+Or you can find them in the files above.
