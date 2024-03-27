@@ -29,6 +29,8 @@ Ensure that your submission is well-organized and follows the guidelines provide
 
 ___________________________________________________________________________________________________
 
+### PDFPlumber
+
 **What is PDFPlumber?**
 
 Plumb a PDF for detailed information about each text character, rectangle, and line. Plus: Table extraction and visual debugging.
