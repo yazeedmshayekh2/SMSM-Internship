@@ -1,3 +1,5 @@
+# PDFPlumber 
+
 **What is PDFPlumber?**
 
 Plumb a PDF for detailed information about each text character, rectangle, and line. Plus: Table extraction and visual debugging.
