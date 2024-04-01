@@ -27,10 +27,6 @@ Your task is to evaluate the PDFPlumber PDF text extraction tool by running it o
 
 Ensure that your submission is well-organized and adheres to the provided guidelines.
 
-<a target="_blank" href="https://colab.research.google.com/github/yazeedmshayekh2/SMSM-Internship/tree/main/RAG-AMUN/PDF-Mining/pdfplumber_coding">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
 ______________________________________
 
 # Full Report about using PDFPlumber with Arabic text
