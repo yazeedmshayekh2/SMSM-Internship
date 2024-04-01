@@ -40,7 +40,9 @@ ______________________________________
 > Code Found Here:
 > 
 
-[Google Colaboratory](https://colab.research.google.com/drive/14XjcllAE3bnoSKMdH0-ny1V0Suerl_8L?usp=sharing)
+<a target="_blank" href="https://colab.research.google.com/drive/14XjcllAE3bnoSKMdH0-ny1V0Suerl_8L#scrollTo=gkQ_hbOx9KtD">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ---
 
