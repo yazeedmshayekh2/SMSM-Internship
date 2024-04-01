@@ -23,4 +23,6 @@ Your task is to evaluate the PyPDF2 PDF text extraction tool by running it on a 
 
 Ensure that your submission is well-organized and follows the guidelines provided.
 
-
+<a target="_blank" href="https://colab.research.google.com/drive/1qEcyERknOXANiFs7tUS01IvcxWc2DpwM#scrollTo=i2LnKNVI6VyQ">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
